@@ -1,0 +1,142 @@
+[
+  {
+    "titulo": "El descubrimiento de un nuevo planeta revoluciona la astronomía",
+    "contenido": "Un equipo internacional de astrónomos ha anunciado el descubrimiento de un exoplaneta con características similares a la Tierra, lo que abre nuevas posibilidades en la búsqueda de vida extraterrestre.",
+    "categoria": "Ciencia",
+    "autor": "Dra. Sofía Mendoza",
+    "fecha": "2024-05-08"
+  },
+  {
+    "titulo": "La economía mundial se enfrenta a un período de incertidumbre",
+    "contenido": "Los principales indicadores económicos sugieren una desaceleración del crecimiento global, lo que ha generado preocupación entre los expertos y líderes mundiales.",
+    "categoria": "Economía",
+    "autor": "Lic. Juan Pérez",
+    "fecha": "2024-05-07"
+  },
+  {
+    "titulo": "El cambio climático amenaza la biodiversidad en el Amazonas",
+    "contenido": "Un nuevo estudio revela que el aumento de las temperaturas y la deforestación están poniendo en peligro la supervivencia de numerosas especies en la selva amazónica.",
+    "categoria": "Medio Ambiente",
+    "autor": "Biól. Ana Rodríguez",
+    "fecha": "2024-05-06"
+  },
+  {
+    "titulo": "La tecnología 5G impulsa la transformación digital",
+    "contenido": "La implementación de la tecnología 5G está acelerando la adopción de nuevas soluciones digitales en diversos sectores, desde la industria hasta la salud y la educación.",
+    "categoria": "Tecnología",
+    "autor": "Ing. Carlos López",
+    "fecha": "2024-05-05"
+  },
+  {
+    "titulo": "El arte contemporáneo se abre a nuevas formas de expresión",
+    "contenido": "Artistas de todo el mundo están explorando nuevas técnicas y materiales para crear obras innovadoras que desafían los límites del arte tradicional.",
+    "categoria": "Arte y Cultura",
+    "autor": "Lic. María Sánchez",
+    "fecha": "2024-05-04"
+  },
+  {
+    "titulo": "El deporte femenino gana terreno en el escenario mundial",
+    "contenido": "Cada vez más mujeres están destacando en diversas disciplinas deportivas, lo que ha contribuido a aumentar la visibilidad y el apoyo al deporte femenino.",
+    "categoria": "Deportes",
+    "autor": "Periodista Laura Gómez",
+    "fecha": "2024-05-03"
+  },
+  {
+    "titulo": "La educación en línea se consolida como una alternativa viable",
+    "contenido": "La pandemia de COVID-19 aceleró la adopción de la educación en línea, y cada vez más instituciones educativas ofrecen programas y cursos en formato virtual.",
+    "categoria": "Educación",
+    "autor": "Dra. Elena Vargas",
+    "fecha": "2024-05-02"
+  },
+  {
+    "titulo": "La gastronomía peruana conquista paladares internacionales",
+    "contenido": "La cocina peruana se ha convertido en un referente mundial gracias a su diversidad de sabores, ingredientes y técnicas culinarias.",
+    "categoria": "Gastronomía",
+    "autor": "Chef Pedro Ramírez",
+    "fecha": "2024-05-01"
+  },
+  {
+    "titulo": "El turismo sostenible se abre camino en el sector",
+    "contenido": "Cada vez más viajeros y empresas turísticas están optando por prácticas sostenibles que minimicen el impacto ambiental y contribuyan al desarrollo de las comunidades locales.",
+    "categoria": "Turismo",
+    "autor": "Lic. Ana Torres",
+    "fecha": "2024-04-30"
+  },
+  {
+    "titulo": "La música urbana se consolida como un fenómeno global",
+    "contenido": "Géneros como el rap, el trap y el reguetón han ganado popularidad en todo el mundo, y sus artistas son referentes para millones de jóvenes.",
+    "categoria": "Música",
+    "autor": "Periodista Javier Castro",
+    "fecha": "2024-04-29"
+  },
+  {
+    "titulo": "El regreso triunfal del rock clásico",
+    "contenido": "Una legendaria banda de rock ha anunciado su gira mundial, reviviendo la nostalgia de los clásicos del género.",
+    "categoria": "Música",
+    "autor": "Crítico Musical Ana Torres",
+    "fecha": "2024-05-10"
+  },
+  {
+    "titulo": "La nueva sensación del pop conquista las listas",
+    "contenido": "Un joven artista ha irrumpido en la escena musical con un pegadizo sencillo que está arrasando en las plataformas digitales.",
+    "categoria": "Música",
+    "autor": "Periodista Musical Carlos Gómez",
+    "fecha": "2024-05-09"
+  },
+  {
+    "titulo": "El jazz se fusiona con ritmos electrónicos en un nuevo álbum",
+    "contenido": "Un innovador proyecto musical combina la improvisación del jazz con la energía de la música electrónica, creando una experiencia sonora única.",
+    "categoria": "Música",
+    "autor": "Especialista en Jazz Laura Pérez",
+    "fecha": "2024-05-08"
+  },
+  {
+    "titulo": "La música urbana se consolida como un fenómeno global",
+    "contenido": "Géneros como el rap, el trap y el reguetón han ganado popularidad en todo el mundo, y sus artistas son referentes para millones de jóvenes.",
+    "categoria": "Música",
+    "autor": "Periodista Javier Castro",
+    "fecha": "2024-04-29"
+  },
+  {
+    "titulo": "El indie folk conquista corazones con letras introspectivas",
+    "contenido": "Un cantautor independiente ha ganado reconocimiento por sus canciones emotivas y letras profundas que conectan con el público.",
+    "categoria": "Música",
+    "autor": "Bloguero Musical Sofía Ramírez",
+    "fecha": "2024-05-07"
+  },
+  {
+    "titulo": "La música clásica se reinventa con nuevas interpretaciones",
+    "contenido": "Jóvenes músicos están reinterpretando obras clásicas con arreglos modernos, acercando este género a nuevas audiencias.",
+    "categoria": "Música",
+    "autor": "Musicólogo Pedro Martínez",
+    "fecha": "2024-05-06"
+  },
+  {
+    "titulo": "El metal extremo desafía los límites de la música",
+    "contenido": "Una banda de metal ha lanzado un álbum conceptual que explora sonidos oscuros y atmósferas intensas, desafiando las convenciones del género.",
+    "categoria": "Música",
+    "autor": "Crítico de Metal Elena Vargas",
+    "fecha": "2024-05-05"
+  },
+  {
+    "titulo": "La música electrónica experimental sorprende con sonidos innovadores",
+    "contenido": "Un artista electrónico ha creado un álbum que fusiona sonidos abstractos y ritmos complejos, explorando nuevas fronteras en la música electrónica.",
+    "categoria": "Música",
+    "autor": "Productor Musical Daniel López",
+    "fecha": "2024-05-04"
+  },
+  {
+    "titulo": "El blues revive su esencia con jóvenes talentos",
+    "contenido": "Una nueva generación de músicos de blues está rindiendo homenaje a los grandes maestros del género, manteniendo viva su esencia.",
+    "categoria": "Música",
+    "autor": "Historiador del Blues María Sánchez",
+    "fecha": "2024-05-03"
+  },
+  {
+    "titulo": "La música latina urbana revoluciona la escena global",
+    "contenido": "Artistas latinos están liderando las listas de éxitos con ritmos contagiosos y letras que conectan con audiencias de todo el mundo.",
+    "categoria": "Música",
+    "autor": "Periodista Musical Javier Castro",
+    "fecha": "2024-05-02"
+  }
+]
